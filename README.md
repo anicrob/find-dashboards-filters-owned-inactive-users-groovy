@@ -12,9 +12,13 @@ Please note you will have to have Adaptavist's ScriptRunner app installed to run
 ## Setup Instructions
 
 TODO:
+
 (just have to do these steps once and never again)
+
 STEP 1: add the project key where the ticket with the CSV attachments will be created
+
 STEP 2: add the issue type id of the ticket that will be created
+
 STEP 3: add the base URL https://your-domain.atlassian.net
 
 ## Usage
