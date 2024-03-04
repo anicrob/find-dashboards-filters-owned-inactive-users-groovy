@@ -23,7 +23,7 @@ STEP 3: add the base URL https://your-domain.atlassian.net
 
 ## Usage
 
-Then run the script in the script console in ScriptRunner! 🏃 
+Then run the script in the script console in ScriptRunner! 🏃 (Instead, you can always make this a scheduled job!) 
 
 ## Limitations
 
